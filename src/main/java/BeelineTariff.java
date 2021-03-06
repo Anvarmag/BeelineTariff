@@ -1,12 +1,12 @@
 public class BeelineTariff {
     long id;
     String name;
-    boolean eSim;
+    String discount;
     String url;
+    boolean eSim;
     int downloadGb;
     int minutes;
     int sms;
     int pricemonth;
     int oldpricemonth;
-    String discount;
 }
